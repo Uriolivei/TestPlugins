@@ -1,0 +1,22 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Uriolivei/TestPlugins",
+        "fileSize": 17773,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Ranita, Yeji",
+            "Mina"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 21,
+        "internalName": "ExampleProvider",
+        "description": "Contenido en Latino",
+        "url": "https://raw.githubusercontent.com/Uriolivei/TestPlugins/builds/ExampleProvider.cs3",
+        "name": "ExampleProvider"
+    }
+]
